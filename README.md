@@ -1,4 +1,4 @@
-Juan Esteban Currea - 201922133
+Juan Esteban Currea - 201922133-
 María José cely - 202011803
 
 #ISIS1225 - Estructura de un proyecto
